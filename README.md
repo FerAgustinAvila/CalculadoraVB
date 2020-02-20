@@ -12,7 +12,7 @@ Utilizando Net Framework, con el lenguaje Visual Basic cree esta simple calculad
 
 
 ## Uso
-Para poder usar/probar la aplicación de consola. Descargan el repositorio, abren la carpeta
+Para poder usar/probar la calculadora, descargan el repositorio, abren la carpeta
 
 **IntroVB -> bin -> Debug**
 
